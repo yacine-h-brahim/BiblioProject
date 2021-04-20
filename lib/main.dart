@@ -15,7 +15,7 @@ void main() {
              mainAxisAlignment: MainAxisAlignment.center,
              children: <Widget>[
                CircleAvatar(
-                 backgroundColor: Colors.white,
+                 backgroundColor: Colors.red,
                ),
                Container(
                  color: Colors.teal,
